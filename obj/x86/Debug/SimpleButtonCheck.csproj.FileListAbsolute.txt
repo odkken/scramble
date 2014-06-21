@@ -1,0 +1,15 @@
+C:\Users\JJ\Downloads\AndroidLib-Samples-C--master\AndroidLib-Samples-C--master\SimpleButtonCheck\obj\x86\Debug\SimpleButtonCheck.csprojResolveAssemblyReference.cache
+C:\Users\JJ\Downloads\AndroidLib-Samples-C--master\AndroidLib-Samples-C--master\SimpleButtonCheck\obj\x86\Debug\SimpleButtonCheck.Form1.resources
+C:\Users\JJ\Downloads\AndroidLib-Samples-C--master\AndroidLib-Samples-C--master\SimpleButtonCheck\obj\x86\Debug\SimpleButtonCheck.Properties.Resources.resources
+C:\Users\JJ\Downloads\AndroidLib-Samples-C--master\AndroidLib-Samples-C--master\SimpleButtonCheck\obj\x86\Debug\SimpleButtonCheck.csproj.GenerateResource.Cache
+C:\Users\JJ\Downloads\AndroidLib-Samples-C--master\AndroidLib-Samples-C--master\SimpleButtonCheck\bin\Debug\SimpleButtonCheck.exe
+C:\Users\JJ\Downloads\AndroidLib-Samples-C--master\AndroidLib-Samples-C--master\SimpleButtonCheck\bin\Debug\SimpleButtonCheck.pdb
+C:\Users\JJ\Downloads\AndroidLib-Samples-C--master\AndroidLib-Samples-C--master\SimpleButtonCheck\bin\Debug\AndroidLib.dll
+C:\Users\JJ\Downloads\AndroidLib-Samples-C--master\AndroidLib-Samples-C--master\SimpleButtonCheck\bin\Debug\AndroidLib.pdb
+C:\Users\JJ\Downloads\AndroidLib-Samples-C--master\AndroidLib-Samples-C--master\SimpleButtonCheck\bin\Debug\AndroidLib.xml
+C:\Users\JJ\Downloads\AndroidLib-Samples-C--master\AndroidLib-Samples-C--master\SimpleButtonCheck\obj\x86\Debug\SimpleButtonCheck.exe
+C:\Users\JJ\Downloads\AndroidLib-Samples-C--master\AndroidLib-Samples-C--master\SimpleButtonCheck\obj\x86\Debug\SimpleButtonCheck.pdb
+C:\Users\JJ\Downloads\AndroidLib-Samples-C--master\AndroidLib-Samples-C--master\SimpleButtonCheck\bin\Debug\x64\liblept168.dll
+C:\Users\JJ\Downloads\AndroidLib-Samples-C--master\AndroidLib-Samples-C--master\SimpleButtonCheck\bin\Debug\x64\libtesseract302.dll
+C:\Users\JJ\Downloads\AndroidLib-Samples-C--master\AndroidLib-Samples-C--master\SimpleButtonCheck\bin\Debug\x86\liblept168.dll
+C:\Users\JJ\Downloads\AndroidLib-Samples-C--master\AndroidLib-Samples-C--master\SimpleButtonCheck\bin\Debug\x86\libtesseract302.dll
